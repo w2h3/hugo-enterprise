@@ -1,0 +1,6 @@
+{
+  "alias": ["hugo-enterprise.vercel.app"],
+  "github": {
+    "autoAlias": true
+  }
+}
