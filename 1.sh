@@ -14,9 +14,7 @@ echo "show me"
 printf "=====================\n"
 printf "%s\n" "hide me"
 ls foo-foo
-date
-tty
-db_load &>
+db_load
 echo "end of run"
 
 # close fd=3
