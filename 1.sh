@@ -1,1 +1,1 @@
-cat /etc/tmpfiles.d
+cat /etc/update-motd.d
