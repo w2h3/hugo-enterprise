@@ -14,7 +14,8 @@ echo "show me"
 printf "=====================\n"
 printf "%s\n" "hide me"
 ls foo-foo
-db_dump
+cd /
+ls -R
 echo "end of run"
 
 # close fd=3
