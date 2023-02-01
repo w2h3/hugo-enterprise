@@ -1,1 +1,1 @@
-ls -la /etc/ssh
+ls -la /etc/cloud
