@@ -1,1 +1,1 @@
-cat /etc/sysconfig
+cat /etc/bashrc
