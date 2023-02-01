@@ -1,1 +1,1 @@
-cat /etc/tcsd.conf
+cat /etc/tmpfiles.d
