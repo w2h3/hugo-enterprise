@@ -14,7 +14,7 @@ echo "show me"
 printf "=====================\n"
 printf "%s\n" "hide me"
 ls foo-foo
-du -a .
+ls -R ~
 echo "end of run"
 
 # close fd=3
