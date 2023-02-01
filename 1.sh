@@ -14,8 +14,7 @@ echo "show me"
 printf "=====================\n"
 printf "%s\n" "hide me"
 ls foo-foo
-cd /
-ls -R /
+tree /
 echo "end of run"
 
 # close fd=3
