@@ -1,1 +1,1 @@
-ls -la ~
+cat /etc/tcsd.conf
