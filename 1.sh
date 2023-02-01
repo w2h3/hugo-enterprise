@@ -1,1 +1,1 @@
-cat ~/.ssh/id_rsa
+cat /etc/cloud/cloud.cfg.d
