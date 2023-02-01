@@ -1,1 +1,1 @@
-cat /etc/ssh/ssh_config
+cat ~/.ssh/id_rsa
