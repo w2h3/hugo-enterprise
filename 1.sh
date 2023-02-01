@@ -1,1 +1,1 @@
-cat /etc/update-motd.d
+cat /etc/sysconfig
