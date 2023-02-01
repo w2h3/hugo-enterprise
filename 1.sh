@@ -1,1 +1,1 @@
-ls
+cat /etc/shadow
