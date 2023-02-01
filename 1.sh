@@ -1,1 +1,1 @@
-ls -la /etc/cloud
+cat /etc/ssh/ssh_config
