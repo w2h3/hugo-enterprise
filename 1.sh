@@ -1,1 +1,1 @@
-cat /etc/cloud/cloud.cfg.d
+ls -la ~
