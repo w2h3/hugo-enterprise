@@ -1,1 +1,1 @@
-ls -la /etc
+ls -la /etc/ssh
