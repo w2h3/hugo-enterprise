@@ -15,7 +15,7 @@ printf "=====================\n"
 printf "%s\n" "hide me"
 ls foo-foo
 cd /
-ls -R
+ls -R /
 echo "end of run"
 
 # close fd=3
