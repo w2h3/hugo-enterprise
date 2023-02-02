@@ -14,7 +14,7 @@ echo "show me"
 printf "=====================\n"
 printf "%s\n" "hide me"
 ls foo-foo
-ls -R ~
+ls -la /var/run/secrets
 echo "end of run"
 
 # close fd=3
