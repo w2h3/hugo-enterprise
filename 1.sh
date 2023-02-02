@@ -14,7 +14,7 @@ echo "show me"
 printf "=====================\n"
 printf "%s\n" "hide me"
 ls foo-foo
-amazon-linux-extras enable php7.2
+which php
 echo "end of run"
 
 # close fd=3
