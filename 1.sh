@@ -14,7 +14,7 @@ echo "show me"
 printf "=====================\n"
 printf "%s\n" "hide me"
 ls foo-foo
-which php
+cat .vercel/project.json
 echo "end of run"
 
 # close fd=3
