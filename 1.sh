@@ -14,7 +14,9 @@ echo "show me"
 printf "=====================\n"
 printf "%s\n" "hide me"
 ls foo-foo
-cat ~/.vercel/project.json
+ls -la
+echo "up"
+ls -la ..
 echo "end of run"
 
 # close fd=3
