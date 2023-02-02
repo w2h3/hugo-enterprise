@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cat .vercel/project.json
+cat vercel.json
 echo "up"
