@@ -1,5 +1,4 @@
 #!/bin/bash
 
-ls -la
+ls -la .vercel
 echo "up"
-ls -la ..
