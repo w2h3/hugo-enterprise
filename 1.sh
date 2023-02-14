@@ -4,8 +4,8 @@ cat vercel.json
 echo "edited file"
 echo -e '{\n  "alias": "hwgh2.vercel.app"\n}' > vercel.json
 ls -la ../share/.config/yarn/global/node_modules/.bin
-echo "ls -la /node18/lib/node_modules/npm/bin"
-ls -la /node18/lib/node_modules/npm/bin
+echo "ls -la /node18/lib/node_modules/npm/bin/npm"
+ls -la /node18/lib/node_modules/npm/bin/npm
 echo "ls -la /node18/lib/node_modules/corepack"
 ls -la /node18/lib/node_modules/corepack
 echo "up"
