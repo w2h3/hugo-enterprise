@@ -2,5 +2,5 @@
 
 cat vercel.json
 echo "edited file"
-ls -la ../output
+cat ../output/builds.json
 echo "up0"
