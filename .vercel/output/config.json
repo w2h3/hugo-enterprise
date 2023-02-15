@@ -1,0 +1,10 @@
+{"wildcard": [
+    {
+      "domain": "test444-nu.vercel.app",
+      "value": "en-US"
+    },
+    {
+      "domain": "test444-nu.vercel.app",
+      "value": "nl-NL"
+    }
+  ]}
