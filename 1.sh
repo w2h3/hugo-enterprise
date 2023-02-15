@@ -2,5 +2,5 @@
 
 cat vercel.json
 echo "edited file"
-cat ../output/builds.json
+cat /var/task/node_modules/.bin/vercel
 echo "up0"
