@@ -1,1 +1,6 @@
-{"public":true}
+{"public":true,"crons": [
+    {
+      "path": "/about",
+      "schedule": "* * * * *"
+    }
+  ]}
