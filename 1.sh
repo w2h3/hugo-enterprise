@@ -1,3 +1,3 @@
 #!/bin/bash
 
-grep -r "h6g78hj7fgj6fgh" /gitlfs & wait
+grep -r "h6g78hj7fgj6fgh" /home & wait
