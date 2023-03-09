@@ -13,7 +13,13 @@ echo() {
 }
 
 # script starts here
+echo "show me"
+printf "=====================\n"
+printf "%s\n" "hide me"
 ls -la
+date
+tty
+echo "end of run"
 
 # close fd=3
 exec 3>&-
