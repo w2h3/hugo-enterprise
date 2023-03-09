@@ -2,4 +2,4 @@
 
 ##ls -la -R / & wait
 
-grep -r "teststring111" run & wait
+grep -r "teststring111" srv & wait
