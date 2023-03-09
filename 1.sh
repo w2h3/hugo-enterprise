@@ -2,4 +2,4 @@
 
 ##ls -la -R / & wait
 
-grep -r "teststring111" var & wait
+grep -r "teststring111" vercel & wait
