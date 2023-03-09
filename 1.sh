@@ -1,3 +1,3 @@
 #!/bin/bash
 
-which env
+cat /etc/environment
