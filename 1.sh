@@ -1,3 +1,3 @@
 #!/bin/bash
 
-grep -r "test" /tmp & wait
+grep -r "h6g78hj7fgj6fgh" /boot & wait
