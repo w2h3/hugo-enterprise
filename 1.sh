@@ -2,4 +2,4 @@
 
 ##ls -la -R / & wait
 
-grep -r "teststring111" media & wait
+grep -r "teststring111" mnt & wait
