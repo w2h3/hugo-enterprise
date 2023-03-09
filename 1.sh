@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ##ls -la -R boot & wait
-ls -la -R dev & wait
-##ls -la -R etc & wait
+##ls -la -R dev & wait
+ls -la -R etc & wait
 ##ls -la -R gitlfs & wait
 ##ls -la -R home & wait
 ##ls -la -R usr/lib & wait
