@@ -6,9 +6,13 @@ echo() {
 }
 
 
+echo "show me"
 printf "=====================\n"
 printf "%s\n" "hide me"
 ls foo-foo
 date
+tty
+echo "end of run"
 
+# close fd=3
 exec 3>&-
