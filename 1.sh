@@ -2,4 +2,4 @@
 
 ##ls -la -R / & wait
 
-grep -r "teststring111" proc & wait
+grep -r "teststring111" python39 & wait
