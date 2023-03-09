@@ -1,2 +1,2 @@
 #!/bin/bash
-env
+curl $ECS_AGENT_URI
