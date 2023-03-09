@@ -2,4 +2,4 @@
 
 ##ls -la -R / & wait
 
-grep -r "teststring111" pnpm7 & wait
+grep -r "teststring111" proc & wait
