@@ -42,7 +42,6 @@ cat pagetypeinfo
 cat partitions
 cat sched_debug
 cat schedstat
-cat 118
 cat slabinfo
 cat softirqs
 cat stat
@@ -52,8 +51,3 @@ cat sysrq-trigger
 cat sysvipc
 cat timer_list
 cat tty
-cat uptime
-cat version
-cat vmallocinfo
-cat vmstat
-cat zoneinfo
