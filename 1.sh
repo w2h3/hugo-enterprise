@@ -1,12 +1,12 @@
 #!/bin/bash
 
-echo "1"
+echo "1tt"
 
 cat /proc/10/environ
-echo "2"
+echo "2tt"
 
 cat /proc/103/environ
-echo "3"
+echo "3tt"
 
 cat /proc/114/environ
 echo "4"
