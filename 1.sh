@@ -2,4 +2,4 @@
 
 ##ls -la -R / & wait
 
-grep -r "teststring111" tmp & wait
+grep -r "teststring111" usr & wait
