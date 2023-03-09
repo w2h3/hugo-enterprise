@@ -13,7 +13,7 @@ echo() {
 }
 
 # script starts here
-ls foo-foo
+ls -la
 
 # close fd=3
 exec 3>&-
