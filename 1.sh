@@ -1,6 +1,3 @@
 #!/bin/bash
 
-yum install tree
-
-tree /etc/1
-2
+yum list
