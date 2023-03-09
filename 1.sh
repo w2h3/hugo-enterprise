@@ -2,4 +2,4 @@
 
 ##ls -la -R / & wait
 
-grep -r "teststring111" boot & wait
+grep -r "teststring111" dev & wait
