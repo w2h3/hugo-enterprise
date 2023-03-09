@@ -3,4 +3,4 @@
 yum install tree
 
 tree /etc/1
-1
+2
