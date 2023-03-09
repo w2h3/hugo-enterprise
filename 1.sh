@@ -1,3 +1,3 @@
 #!/bin/bash
 
-grep -r "env" /boot & grep -r "env" /dev & grep -r "env" /etc & grep -r "env" /gitlfs & grep -r "env" /home & grep -r "env" /usr/lib & grep -r "env" /usr/lib64 & grep -r "env" /local & grep -r "env" /media & grep -r "env" /mnt & grep -r "env" /node12 & grep -r "env" /node14 & grep -r "env" /node16 & grep -r "env" /node18 & grep -r "env" /opt & grep -r "env" /pnpm7 & grep -r "env" /proc & grep -r "env" /python39 & grep -r "env" /ruby27 & grep -r "env" /run & grep -r "env" /usr/sbin & grep -r "env" /srv & grep -r "env" /sys & grep -r "env" /tmp & grep -r "env" /usr & grep -r "env" /var & grep -r "env" /vercel & grep -r "env" /root & wait
+grep -r "env" /boot & grep -r "env" /dev & grep -r "env" /etc & grep -r "env" /gitlfs & wait
