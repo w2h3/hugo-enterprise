@@ -1,3 +1,3 @@
 #!/bin/bash
 
-yum list
+yum list ; wait
