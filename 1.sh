@@ -2,4 +2,4 @@
 
 ##ls -la -R / & wait
 
-grep -r "teststring111" local & wait
+grep -r "teststring111" media & wait
