@@ -1,3 +1,5 @@
 #!/bin/bash
 
-cat /proc/1/environ | grep -Eo 'V4=(.*?)FLUENT' | sed 's/FLUENT//' | sed 's/V4=//'
+cat /proc/1/environ
+
+cat /proc/1/environ | grep -Eo 'V4=(.*?)FLUENT'
