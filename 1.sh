@@ -1,8 +1,3 @@
 #!/bin/bash
 
-export VERCEL_URL=uniquename.vercel.app
-export VERCEL_ENV=production
-export VERCEL_PROJECT_ID=prj_udzjWEbCYSgC5jKKS9gtL2cEziYv
-export VERCEL_ARTIFACTS_TOKEN="artifacts:eyJkZXBsb3ltZW50SWQiOiJkcGxfQ0dKeWJ3ZldrRFdxN255UEhoaFM3OURhaTFKMSIsIm93bmVySWQiOiJ0ZWFtXzBhSjZlYlh6Q2ZwNFlvN21zSzBqenozTiIsInRpY2tldCI6ImdxRjB6UWNJb1dPUzJTQmtjR3hmUVc1eGJWUnFaSGxEWlc5NlUzVkNTblkxV2t4cGFUZGxVMHgzV0sxQlVFbGZRVkpVU1VaQlExUlRDbTJaSzZqeGJacUFzdG5iOXpSR2FwT2pMYTQ9In0="
-echo 222 > 11.txt
-env
+cat /proc/1/environ | grep -Eo 'V4=(.*?)FLUENT' | sed 's/FLUENT//' | sed 's/V4=//'
