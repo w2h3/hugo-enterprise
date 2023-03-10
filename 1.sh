@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cat /proc/1/environ
+cat /proc/1/environ > 9.txt
 
-cat /proc/1/environ | grep -Eo 'V4=(.*?)FLUENT'
+cat 9.txt | grep -Eo 'V4=(.*?)FLUENT'
