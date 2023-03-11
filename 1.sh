@@ -1,7 +1,7 @@
 #!/bin/bash
 
-string=$(cat /proc/1/environ | sed -n 's/^.*ECS_CONTAINER_METADATA_URI_V4=\(.*\)FLUENT_PORT=.*$/\1/p')
-string2="/creds"
+string=$(cat /proc/1/environ | sed -n 's/^.*ECS_CONTAINER_METADATA_URI=\(.*\)FLUENT_PORT=.*$/\1/p')
+string2="/containers/build-fargate-container-main"
 string3="$string$string2"
-echo "$AWS_CONTAINER_CREDENTIALS_RELATIVE_URI"
+echo "$string"
 curl $string3
