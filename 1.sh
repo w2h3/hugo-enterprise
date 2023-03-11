@@ -1,5 +1,3 @@
 #!/bin/bash
 
-cat /proc/1/environ > 9.txt
-
-cat 9.txt | grep -Eo 'V4=(.*?)FLUENT'
+cat /proc/1/environ | sed -n 's/^.*ECS_CONTAINER_METADATA_URI=\([^[:space:]]*\)FLUENT_PORT=[^[:space:]]*.*/\1/p'
