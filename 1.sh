@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cat /node18/bin/node
+ls -la /node18
