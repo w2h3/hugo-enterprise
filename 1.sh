@@ -1,3 +1,3 @@
 #!/bin/bash
 
-env
+ls -la /node18/bin/node
