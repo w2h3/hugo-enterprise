@@ -1,4 +1,4 @@
-baseURL = "javascript%3a//https://gg.com"
+baseURL = "https://gg.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
