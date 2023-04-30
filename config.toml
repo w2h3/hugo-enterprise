@@ -1,4 +1,4 @@
-baseURL = "https://gg.com\"<script>alert()</script>"
+baseURL = "https://gg.com?g=<script>alert()</script>"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
