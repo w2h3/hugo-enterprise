@@ -1,4 +1,4 @@
-baseURL = "javascript:alert();//http://example.org/"
+baseURL = "javascript://https://gg.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
