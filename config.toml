@@ -1,4 +1,5 @@
 baseURL = "http://gg.com"
+image = "http://gg.com/1.jpeg"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
