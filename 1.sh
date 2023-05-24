@@ -1,1 +1,2 @@
-cat /vercel/output/builds.json
+echo "builds.json output"
+cat .vercel/output/builds.json
