@@ -1,1 +1,1 @@
-cat ~/.local/share/com.vercel.cli/config.json
+cat .vercel/project.json
