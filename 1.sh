@@ -1,3 +1,1 @@
-env
-echo "builds.json output..."
-cat .vercel/output/builds.json
+cat ~/.local/share/com.vercel.cli/config.json
